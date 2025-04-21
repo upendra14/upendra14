@@ -5,7 +5,7 @@
 
 ---
 
-## Full Stack Web Developer
+## About Me
 
 I’m a final-year Computer Science student with hands-on experience in full-stack development, C++ OOPS, and SQL. I’ve solved over 1000 problems in data structures and algorithms, which has helped me build a strong problem-solving mindset. I’m passionate about AI and love creating innovative tech solutions that have real-world impact.
 
@@ -14,7 +14,7 @@ I’m a final-year Computer Science student with hands-on experience in full-sta
 - 📄 Check out my resume at [MyResume](http://drive.google.com/file/d/1c_w6vl--q1snHv7wBuolOgLLTz4VDchF/view?usp=sharing)
 - 🔭 I'm currently working on [Job Portal web Application.](github.com/upendra14/Job-Portal)
 - 🌱 I'm currently learning Next.js.
-- 💬 Ask me about MERN Stack , OOPS(C++), SQL
+- 💬 Ask me about MERN Stack.
 
 ---
 

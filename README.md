@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7FFF00&width=380&height=28&lines=Hi+I'm+Upendra+Kumar;Nice+To+Meet+You!&center=true">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&width=380&height=28&lines=Hi+I'm+Upendra+Kumar;Nice+To+Meet+You!&center=true">
 </p>
 
 
@@ -7,7 +7,7 @@
 
 ## Full Stack Web Developer
 
-I am a final-year Computer Science student with experience in full-stack development, a strong foundation in data structures and algorithms (1000+ problems solved), and a passion for exploring AI and building innovative tech solutions.
+I’m a final-year Computer Science student with hands-on experience in full-stack development, C++ OOPS, and SQL. I’ve solved over 1000 problems in data structures and algorithms, which has helped me build a strong problem-solving mindset. I’m passionate about AI and love creating innovative tech solutions that have real-world impact.
 
 - 🌍 I'm from Gujarat, India
 - 📫 Reach me at [upendrabrcy1522@gmail.com](mailto:upendrabrcy1522@gmail.com)

@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi+I'm+Upendra+Kumar;Nice+To+Meet+You!&center=true">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7FFF00&width=380&height=28&lines=Hi+I'm+Upendra+Kumar;Nice+To+Meet+You!&center=true">
 </p>
+
 
 ---
 
@@ -46,6 +47,3 @@ I am a final-year Computer Science student with experience in full-stack develop
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"/>
-</p>

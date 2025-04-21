@@ -66,18 +66,6 @@ I am a final-year Computer Science student with experience in full-stack develop
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/docker-colored.svg" alt="Docker" />
 </picture></a> &nbsp;
 
-### Social
-
-<a href="https://www.github.com/upendra14" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
-</picture>
-</a> &nbsp;
-<a href="https://www.linkedin.com/in/upendra-kumar-148369158/" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="linkedin" />
-</picture>
-</a> &nbsp;
 
 ### Badges
 #### My GitHub Stats
@@ -86,10 +74,3 @@ I am a final-year Computer Science student with experience in full-stack develop
 <a href="http://www.github.com/upendra14"><img
 src="https://streak-stats.demolab.com/?user=upendra14&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> <br/>
 <br/>
-
-#### Top Repositories
-
-<div><a style="margin-bottom: 10px" href="https://github.com/upendra14/Job-Portal" ><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=upendra14&repo=Job-Portal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<div><a style="margin-bottom: 10px" href="https://github.com/upendra14/Flight-Management-System" ><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=upendra14&repo=Flight-Management-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<div><a style="margin-bottom: 10px" href="https://github.com/upendra14/Realtime-chat-app" ><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=upendra14&repo=Realtime-chat-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
